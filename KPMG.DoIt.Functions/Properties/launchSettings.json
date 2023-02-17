@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "KPMG.DoIt.Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7091"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 30400,
+      "useSSL": false
+    }
+  }
+}
